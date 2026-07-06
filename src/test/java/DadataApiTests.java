@@ -83,4 +83,4 @@ public class DadataApiTests {
 
         System.out.println("Test 4 (GET /detectAddressByIp) PASSED!");
     }
-}
+}   
